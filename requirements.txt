@@ -1,0 +1,11 @@
+discord.py
+motor
+pymongo
+python-dotenv
+aiohttp
+asyncio
+numpy
+scipy
+requests
+dnspython
+python-dotenv
